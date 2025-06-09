@@ -18,7 +18,7 @@ formats (list)
 # (if a player has default and vip, if default is the first element, vip will be ignored)
 formats:
 - permission: redischat.default
-  format: '{time} {ignorebtn} {mailbtn} {player} <dark_gray> » %redischat_chatcolor%
+  format: '{time} {ignorebtn} {mailbtn} {player} <dark_gray> » %redischat_chat_color%
     {message}'
   private_format: '<dark_aqua>MSG <white>(<reset>You <white>to <green>%receiver%<white>)<reset>:
     <white>{message%'
